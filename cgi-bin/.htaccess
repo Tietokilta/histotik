@@ -1,0 +1,5 @@
+<Files submit-picture.cgi>
+order deny,allow
+deny from all
+allow from .hut.fi
+</Files>

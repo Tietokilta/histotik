@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /Alkorytmi/
+Disallow: /Anna_palautetta/
+Disallow: /Etusivu/
+Disallow: /Images/
+Disallow: /Kilta_numeroina/
+Disallow: /Kuva-arkisto/
+Disallow: /Lenskin_Dynamo/
+Disallow: /Navi/
+Disallow: /Slangia_ilmioita/
+Disallow: /Syyllisia_selityksia/
+Disallow: /Vuosi_vuodelta/
+Disallow: /Vuosi_vuodelta.bak/
+Disallow: /cgi-bin/

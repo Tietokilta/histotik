@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+  <HEAD>
+    <TITLE>histo.tik</TITLE>
+    <LINK rel="stylesheet" type="text/css" href="../histotik.css" title="histo.tik">
+  </HEAD>
+  <BODY bgcolor="#000000" text="#000000" link="#003366" alink="#3399FF" vlink="#3366CC">
+    <A name="alku"></A>
+    <CENTER>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="perus">
+	    <H1>Syyllisi&auml; ja selityksi&auml;</H1>
+	    <DIV class="lista" align="left">
+	      <A name="uusi"></A>[<A href="#uusi">histo.tik</A>] [<A href="#vanha">HistoTiK</A>]
+	    </DIV>
+	    <P>
+	    <H2>Arvoisalle lukijalle: uusia selityksi&auml;, tilityksi&auml; ja kiitoksia</H2>
+	    <P>
+	    HistoTiKin uusin ja samalla verkottunut versio, histo.tik,
+	    sai l&auml;ht&ouml;laukauksensa vuoden 1999
+	    TiKkujouluissa. Siell&auml; Lauri Sumari ja Timo-Pekka
+	    Viljamaa saivat p&auml;&auml;h&auml;ns&auml;, ett&auml;
+	    voisivat tehd&auml; perinteiseen tyyliin
+	    Hypermediadokumentin laatiminen -kurssilla killallemme
+	    uudet kotisivut. Illan mittaan he saivat vanhemmilta
+	    kiltalaisilta palautetta aiheesta, ja kotisivut vaihtuivat
+	    HistoTiKin verkkoversioon, koska nykyiset killan kotisivut
+	    ovat hyv&auml;t.
+	    <P>
+	    Pian tuli tammikuu ja kurssi alkoi. Ennen
+	    ensimm&auml;ist&auml; luentoa ryhm&auml;&auml;mme liittyi
+	    kiltahuoneelta Antti Tiainen, joka itsekin aikoi suorittaa
+	    kurssin, mutta h&auml;nelt&auml; puuttui ryhm&auml; ja
+	    hyv&auml; aihe. T&auml;ss&auml; vaiheessa emme viel&auml;
+	    tienneet, kuinka iso projekti histo.tikist&auml; tulisi.
+	    <P>
+	    Ty&ouml;nteko aloitettiin hankkimalla HistoTiKin taitto
+	    Mikko H&auml;m&auml;l&auml;iselt&auml; ja juttelemalla
+	    HistoTiKin kirjoittaneen Matti &Auml;ng&ouml;n kanssa
+	    uudesta versiosta. T&auml;m&auml;n j&auml;lkeen pidimme
+	    ensimm&auml;isen kokouksen, jossa pohdimme, milt&auml;
+	    histo.tik tulisi n&auml;ytt&auml;m&auml;&auml;n ja
+	    mit&auml; se sis&auml;lt&auml;isi. Voimme sanoa, ett&auml;
+	    lopputulos oli melko erilainen kuin tuolloin
+	    suunniteltiin.
+	    <P>
+	    Ty&ouml;njaosta tuli seuraavanlainen: Lauri Sumari
+	    suunnittelee ja toteuttaa ulkoasun, Antti Tiainen tekee
+	    kuva-arkiston skriptit sek&auml; kirjoittaa uusien vuosien
+	    tekstit - Timo-Pekka Viljamaalle j&auml;i ns. apinakoodaus
+	    eli HTML-sivujen toteutus. T&auml;m&auml; ty&ouml;njako ei
+	    aina aivan pit&auml;nyt, mutta t&auml;st&auml;
+	    l&auml;hdettiin. Alusta alkaen p&auml;&auml;tettiin olla
+	    uskollisia HistoTiKille, tehden alkuper&auml;iseen
+	    tekstiin vain pieni&auml; korjauksia. My&ouml;s kuvat ovat
+	    entiset, mutta t&auml;ll&auml; kertaa
+	    v&auml;reiss&auml;. Uuttakin lis&auml;ttiin;
+	    WWW-k&auml;ytt&ouml;liittym&auml;ll&auml; varustettu
+	    kuvatietokanta mahdollistaa
+	    ennenn&auml;kem&auml;tt&ouml;m&auml;ll&auml; tavalla
+	    killan historian kuvallisen dokumentoinnin.
+	    <P>
+	    Ty&ouml;t&auml; tehdess&auml; ei voinut kuin
+	    ihmetell&auml;, miten v&auml;rik&auml;s killan historia
+	    loppujen lopuksi onkaan. V&auml;h&auml;n v&auml;li&auml;
+	    tuli vastaan nykyisten luennoitsijoiden ja yritysmaailman
+	    hahmojen opiskeluaikaisia kommelluksia. Harmillisinta oli,
+	    ett&auml; kaikkein h&auml;rskeimpi&auml; (ja hauskimpia)
+	    juttuja ei WWW-levitykseen uskaltanut laittaa --
+	    niinp&auml; suurelle yleis&ouml;lle tuskin koskaan
+	    selvi&auml;&auml; mit&auml; on esimerkiksi kurkkupillu tai
+	    ruotsalainen ruletti.
+	    <P>
+	    Kiitoksia haluamme osoittaa kaikille henkil&ouml;ille,
+	    jotka ovat osallistuneet alkuper&auml;isen HistoTiKin
+	    tekoon, koska ilman sit&auml; opusta t&auml;t&auml;
+	    verkkoversiota ei olisi koskaan tullut. Suurkiitos
+	    my&ouml;s henkil&ouml;ille killassamme, jotka auttoivat
+	    meit&auml; jotenkin histo.tikin tekemisess&auml;:
+	    Matti "3m" &Auml;nk&ouml; ja Johannes "Hiero"
+	    Heinonen sek&auml; kaikki valokuviin vapaaehtoisesti
+	    suostuneet ;).
+	    <P>
+	    T&auml;m&auml;n tunnustuksen raapustivat 25.5.2000<BR><H3>Lauri "Larry" Sumari, Antti "Tipu" Tiainen ja Timo-Pekka "T-P" Viljamaa</H3>
+	    <P>
+	    <DIV class="lista" align="left">
+	      <A name="vanha"></A>[<A href="#uusi">histo.tik</A>] [<A href="#vanha">HistoTiK</A>]
+	    </DIV>
+	    <H2>Arvoisalle lukijalle: vanhoja selityksi&auml;, tilityksi&auml; ja kiitoksia</H2>
+	    <P>
+	    Edess&auml;si on vihdoinkin suuri ihme: ensimm&auml;inen
+	    painettu HistoTiKki, Tietokillan
+	    historiikki. Pitk&auml;&auml;n odotettu ja kauan
+	    kaivattu. Kaikista kommelluksista,
+	    k&auml;mmellyksist&auml;, k&auml;siin levinneist&auml;
+	    aikatauluista, utopistisista visioinneista ja parista
+	    yll&auml;tyksest&auml; huolimatta. Useamman
+	    puheenjohtajan, erityisesti Jonna Partasen ja Mikko
+	    S&auml;rk&auml;n sek&auml; Maaret Pyh&auml;j&auml;rven
+	    patisteluiden ja sitkeiden valmistumistivausten sek&auml;
+	    vuoden 1996 vaalikokouksen ponnahduksen hoputtamana.
+	    Allekirjoittaneen itseens&auml; lietsomia omia rimakauhuja
+	    ja komplikaatioita unohtamatta. Vihdoinkin valmiina! Ei
+	    ehk&auml; niin t&auml;ydellisen&auml;, kuin itse olisin
+	    v&auml;lill&auml; toivonut. Aina l&ouml;ytyisi jotain
+	    lis&auml;tt&auml;v&auml;&auml; tai paranneltavaa. Mutta
+	    eih&auml;n t&auml;ss&auml; todellisuudessa
+	    mik&auml;&auml;n olekaan t&auml;ydellist&auml;. Ihminen on
+	    rajallinen olento, niin my&ouml;s opiskelija.
+	    <P>
+   	    <DIV class="kuva" align="center">
+	      <IMG src="Images/syy_asent.jpg" alt="[kuva]" height="290">
+	      <P>
+	      <EM>Syyllisen kuva.</EM>
+	    </DIV>
+	    <P>
+	    Ensimm&auml;isen HistoTiKin vuodelta 1987 kokosi
+	    tiedotusmestari Reija Raunio. T&auml;m&auml; vaatimaton
+	    kansiomallinen kertomus valokuvineen oli hyv&auml;
+	    l&auml;ht&ouml;kohta ja esikuva - esikuva optimistiselle
+	    kuvitelmalle vuosittain tiedotusmestareiden koostamista
+	    kansioista. Vuonna 1990 koottiin killan
+	    perustamisvaiheiden ja ensimm&auml;isten vuosien
+	    materiaalista oma kansionsa sek&auml; koko joukko kansion
+	    ulkopuolellekin j&auml;tetty&auml; materiaalia.
+	    Allekirjoittaneen omat intohimot historiaa kohtaan
+	    sek&auml; taipumus kanniskella alati mukanaan kameraa ja
+	    s&auml;ilytt&auml;&auml; kaikenlainen materiaali,
+	    siirsiv&auml;t HistoTiKkivastuun tiedotusmestarilta
+	    sihteerille vuonna 1991. Samalla menin lupaamaan Elina
+	    Kallille tekev&auml;ni my&ouml;s vuoden 1990
+	    tiedotusmestarin osuuden.
+	    <P>
+	    N&auml;iden "vuosikansioiden" valmistuminen j&auml;i tosin
+	    vuodesta toiseen hyv&auml;n aikomuksen tasolle kunnes
+	    Tietokillan kymmenes juhlavuosi alkoi tosissaan painaa
+	    p&auml;&auml;lle. Yll&auml;tt&auml;en jouduin huomaaman
+	    HistoTiKin muuttuvan helpohkoista kansiokoosteista ihan
+	    oikeaksi kirjaseksi. Mink&auml; k&auml;siins&auml;
+	    j&auml;tt&auml;&auml; py&ouml;rim&auml;&auml;n...
+	    <P>
+	    Toiminnan tehostamiseksi ja varmistamiseksi sain vuonna
+	    1995 ty&ouml;parikseni Anna-Kaisa Lindforsin ja toiminta
+	    nytk&auml;htikin k&auml;yntiin Pekka Nixu Nikanderin
+	    haastattelulla ja "ty&ouml;kirjojen"
+	    kokoamisella. "Ty&ouml;kirjoihin" kokosimme kaikki
+	    toimintakertomukset ja -suunnitelmat, budjetit,
+	    tilinp&auml;&auml;t&ouml;kset ja
+	    vuosijuhlaperinnemerkinn&auml;t. Ty&ouml;saran jaoimme
+	    siten, ett&auml; Anna-Kaisa otti hoitaakseen 1980-luvun
+	    vuodet ja min&auml; puolestani vuodesta 1990
+	    eteenp&auml;in. Siis vuodet, joiden dokumenteistakin olin
+	    jo ison osan laatinut. Ehk&auml; se oli liiankin
+	    l&auml;heinen aihe.
+	    <P>
+	    Tekstin m&auml;&auml;r&auml;&auml; pystyisi paisuttamaan
+	    l&auml;hes rajattomasti, jos pystyisi aina hiukan
+	    vanhempia tikkil&auml;isi&auml; tavatessaan taikomaan
+	    esiin nivaskan tai pari valokuvia, rauhallisen paikan ja
+	    nauhurin. Hupaisia kertomuksia suomalaisten passien ja
+	    ven&auml;l&auml;isen skumpan yhteensopimattomuudesta,
+	    j&auml;yn&auml;operaatioista, keit&auml; kaikkia miliisi
+	    kellarissa pamputtikaan, kuka kantoi agregaattia tai faxia
+	    rantakivikossa ja miksi trokari viettik&auml;&auml;n
+	    y&ouml;ns&auml; putkassa. Ehk&auml; sitten seuraavassa
+	    HistoTiKiss&auml;?
+	    <P>
+	    HistoTiKin luontevin julkistamispaikka olisi ollut 1010
+	    Muistinnollauksessa, maaliskuussa 1996. Mutta eih&auml;n
+	    t&auml;m&auml; projekti niin hyvin aikatauluunsa suostunut
+	    taipumaan. Juhlavuoden aikana oli mahdollisuus
+	    k&auml;mm&auml;t&auml; viel&auml; mainio varasuunnitelma
+	    B: syksyn sitsit.
+	    <P>
+	    Erityiset kiitokset tahdon osoittaa pitk&auml;mielisille
+	    tukijoillemme, jotka ovat yh&auml; jaksaneet pysy&auml;
+	    mukana. Kiitokset kaikille niille, jotka ovat vuosien
+	    varrella olleet Tietokiltaa tekem&auml;ss&auml; ja
+	    kehitt&auml;m&auml;ss&auml;, varsinkin niille, jotka
+	    ker&auml;siv&auml;t vuosien 1984 - 86
+	    materiaalia. Lis&auml;ksi erilliset kiitokset kaikille
+	    niille, jotka ovat kiltahuonetta muutettaessa tai
+	    siivottaessa ymm&auml;rt&auml;neet olla
+	    h&auml;vitt&auml;m&auml;tt&auml; vanhoja kansioita ja
+	    muita dokumentteja.
+	    <P>
+	    T&auml;m&auml;n tunnustuksen raapusti 3.2.1997<BR><H3>Matti "3m" &Auml;nk&ouml;</H3>
+	    <P>
+	    <DIV class="linkki" align="center">
+	      [<A href="#alku">Sivun alkuun</A>]
+	    </DIV>
+          </TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+      </TABLE>
+      <P>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>  
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+	<TR>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="keskitetty" align="center">[<A href="alkutaival.html">Vuosi&nbsp;vuodelta</A>] [<A href="../Alkorytmi/alkorytmi.html">Alkorytmi</A>] [<A href="../Lenskin_Dynamo/lenskin_dynamo.html">Lenskin&nbsp;Dynamo</A>] [<A href="../Slangia_ilmioita/slangia_ilmioita.html">Slangia&nbsp;&&nbsp;ilmi&ouml;it&auml;</A>] [<A href="../Kilta_numeroina/kilta_numeroina.html">Kilta&nbsp;numeroina</A>] [<A href="../Kuva-arkisto/kuva-arkisto.html">Kuva-arkisto</A>] [<A href="../Syyllisia_selityksia/syyllisia_selityksia.html">Syyllisi&auml;&nbsp;&&nbsp;selityksi&auml;</A>] [<A href="../Anna_palautetta/anna_palautetta.html">Anna&nbsp;palautetta</A>]</TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+      </TABLE>
+    </CENTER>
+  </BODY>
+</HTML>

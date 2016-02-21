@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+  <HEAD>
+    <TITLE>histo.tik</TITLE>
+    <LINK rel="stylesheet" type="text/css" href="../histotik.css" title="histo.tik">
+    <LINK rev="made" href="mailto:pj@niksula.hut.fi">
+  </HEAD>
+  <BODY bgcolor="#000000" text="#000000" link="#003366" alink="#3399FF" vlink="#3366CC">
+    <A name="alku"></A>
+    <CENTER>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="perus">
+	    <H1>Anna palautetta</H1>
+	    Risuja, ruusuja, kommentteja, virheit&auml; histo.tikiss&auml;?
+	    <P>
+	    <FORM action="../../cgi-bin/histotik_mail.cgi" method="POST">
+	      <INPUT type="hidden" name="otsikko" value="histo.tik -- palaute">
+	      <TABLE background="" border="0" cellpadding="0" cellspacing="0">
+	        <TR>
+		  <TD>Nimesi<BR><INPUT type="text" size="40" name="nimi"></TD>
+		</TR>
+		<TR>
+		  <TD>S&auml;hk&ouml;postiosoitteesi<BR><INPUT type="text" size="40" name="sposti"></TD>
+		</TR>
+		<TR>
+		  <TD>Palautteesi<BR><TEXTAREA name="viesti" rows="10" cols="40"></TEXTAREA><P><INPUT type="submit" value="L&auml;het&auml;">&nbsp;<INPUT type="reset" value="Tyhjenn&auml;"></TD>
+		</TR>
+              </TABLE>
+	    </FORM>
+	    <P>
+	    <DIV class="linkki" align="center">
+	      [<A href="#alku">Sivun alkuun</A>]
+	    </DIV>
+	  </TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+      </TABLE>
+      <P>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>  
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="keskitetty" align="center">[<A href="../Vuosi_vuodelta/alkutaival.html">Vuosi&nbsp;vuodelta</A>] [<A href="../Alkorytmi/alkorytmi.html">Alkorytmi</A>] [<A href="../Lenskin_Dynamo/lenskin_dynamo.html">Lenskin&nbsp;Dynamo</A>] [<A href="../Slangia_ilmioita/slangia_ilmioita.html">Slangia&nbsp;&&nbsp;ilmi&ouml;it&auml;</A>] [<A href="../Kilta_numeroina/kilta_numeroina.html">Kilta&nbsp;numeroina</A>] [<A href="../Kuva-arkisto/kuva-arkisto.html">Kuva-arkisto</A>] [<A href="../Syyllisia_selityksia/syyllisia_selityksia.html">Syyllisi&auml;&nbsp;&&nbsp;selityksi&auml;</A>] [<A href="../Anna_palautetta/anna_palautetta.html">Anna&nbsp;palautetta</A>]</TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+      </TABLE>
+    </CENTER>
+  </BODY>
+</HTML>
+

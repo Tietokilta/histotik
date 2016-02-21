@@ -1,0 +1,187 @@
+#!/bin/sh --
+
+echo Content-Type: text/html
+echo
+
+HTMLHEAD=head.data
+HTMLTAIL=tail.data
+
+# luetaan parametrit
+
+for PARAM in `echo $QUERY_STRING|tr "&" " "`
+do
+    KEY=""
+    VALUE=""
+
+
+    for PAIR in `echo $PARAM|tr "=" " "`
+    do
+        case "$PAIR" in
+            URL|NIMI|VUOSI|KUUKAUSI|KUVAUS) KEY=$PAIR;;
+            *) VALUE=`echo $PAIR|tr "+" " "`;;
+        esac
+
+    done
+
+
+    if [ "X$KEY" != "X" -a "X$VALUE" != "X" ]
+    then
+        eval "$KEY='$VALUE'"
+    fi
+
+done
+
+cat $HTMLHEAD
+
+
+if [ "X$URL" = "X" ] ; then
+    echo "            <H1>URL kuvaan puuttuu!</H1>"
+    echo "            <P>"
+    echo "            "Palaa tästä \<A href=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+    cat $HTMLTAIL
+    exit
+fi
+
+if [ "X$NIMI" = "X" ] ; then
+    echo "            <H1>Lähettäjän nimi puuttuu!</H1>"
+    echo "            <P>"
+    echo "            "Palaa tästä \<A href=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+    cat $HTMLTAIL
+    exit
+fi
+
+if [ "X$KUVAUS" = "X" ] ; then
+    echo "            <H1>Lyhyt kuvaus puuttuu!</H1>"
+    echo "            <P>"
+    echo "            "Palaa tästä \<A HREF=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+    cat $HTMLTAIL
+    exit
+fi
+
+# muokataan hieman luettavampaan muotoon
+
+if [ $VUOSI -eq `date +'%Y'` ] ; then
+    if [ $KUUKAUSI -gt `date +'%m'` ] ; then
+	echo "            <H1>Antamasi päivämäärä on tulevaisuudessa!</H1>"
+	echo "            <P>"
+	echo "            "Palaa tästä \<A HREF=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+	cat $HTMLTAIL
+	exit
+    fi
+fi
+
+NIMI=`echo $NIMI | sed 's/%E4/ä/g; s/%F6/ö/g; s/%E5/å/g; s/%C4/Ä/g; s/%D6/Ö/g; s/%C5/Å/g; s/%40/@/g; s/%3A/:/g; s/%2F/\\//g; s/%2C/,/g'`
+
+KUVAUS=`echo $KUVAUS | sed 's/%E4/ä/g; s/%F6/ö/g; s/%E5/å/g; s/%C4/Ä/g; s/%D6/Ö/g; s/%C5/Å/g; s/%40/@/g; s/%3A/:/g; s/%2F/\\//g; s/%2C/,/g'`
+
+URL=`echo $URL | sed 's/%3A/:/g; s/%2F/\\//g; s/%7E/~/g'`
+
+PICDIR="../Kuva-arkisto"
+
+# otetaan uniikki id-numero kullekin kerralle, jotta samalle vuodelle ja 
+# kuukaudelle laitetut kuvat eivät mene päällekkäin
+
+NUM=`cat $PICDIR/current`
+let NUM=$NUM+1
+echo $NUM > $PICDIR/current
+
+if /usr/bin/wget -q $URL -O $PICDIR/$VUOSI/pic-$KUUKAUSI-$NUM.jpg; then 
+
+	# tarkistetaan onko samaa kuvaa jo lähetetty
+
+	MD5=`md5sum - < $PICDIR/$VUOSI/pic-$KUUKAUSI-$NUM.jpg`
+	if [ -e $PICDIR/$VUOSI/md5-sums ] ; then
+	    if grep -q $MD5 $PICDIR/$VUOSI/md5-sums ; then
+		echo "            <H1>Lähettämäsi kuva löytyy jo galleriasta!</H1>"
+		echo "            <P>"
+		echo "            "Palaa tästä \<A href=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+		cat $HTMLTAIL
+		rm $PICDIR/$VUOSI/pic-$KUUKAUSI-$NUM.jpg
+		exit
+	    fi
+	fi
+	echo $MD5 >> $PICDIR/$VUOSI/md5-sums
+	
+	convert -geometry 100x100 $PICDIR/$VUOSI/pic-$KUUKAUSI-$NUM.jpg $PICDIR/$VUOSI/thumbs/pic-$KUUKAUSI-$NUM.jpg
+
+	# nyt saavutaan kriittisimpään sektioon, hoidetaan simppelillä lukolla
+
+	while [ -e $PICDIR/$VUOSI/gallery-locked ] ; do
+	    sleep 1
+	done
+
+	touch $PICDIR/$VUOSI/gallery-locked
+
+	TMPNAME=`mktemp -q $PICDIR/$VUOSI/gallery-temp.XXXXXX`
+        if [ $? -ne 0 ]; then
+	    exit 1
+        fi
+	TMPNAME2=`mktemp -q $PICDIR/$VUOSI/gallery-temp2.XXXXXX`
+        if [ $? -ne 0 ]; then
+	    exit 1
+        fi
+
+	# kirjoitetaan kuvan tiedot ja linkit temppiin:
+
+
+
+		i=pic-$KUUKAUSI-$NUM.jpg
+
+#		cat $HTMLHEAD | sed s/"\.\.\/"/"..\/..\/"/g > $PICDIR/$VUOSI/$i.html
+
+		echo "<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">" > $PICDIR/$VUOSI/$i.html
+		echo "<HTML>" >> $PICDIR/$VUOSI/$i.html
+		echo "  <HEAD>" >> $PICDIR/$VUOSI/$i.html
+		echo "    <TITLE>histo.tik</TITLE>" >> $PICDIR/$VUOSI/$i.html
+		echo "    <LINK rel="stylesheet" type="text/css" href="../../histotik.css" title="histo.tik">" >> $PICDIR/$VUOSI/$i.html
+		echo "  </HEAD>" >> $PICDIR/$VUOSI/$i.html
+		echo "  <BODY bgcolor="#000000" text="#000000" link="#003366" alink="#3399FF" vlink="#3366CC">" >> $PICDIR/$VUOSI/$i.html
+		echo "    "\<CENTER\>\<IMG src=\"$i\"\>\</CENTER\> >> $PICDIR/$VUOSI/$i.html
+		echo "  </BODY>" >> $PICDIR/$VUOSI/$i.html
+		echo "</HTML>" >> $PICDIR/$VUOSI/$i.html
+
+#		cat $HTMLTAIL | sed s/"\.\.\/"/"..\/..\/"/g >> $PICDIR/$VUOSI/$i.html
+
+		echo "" >> $TMPNAME
+ 		echo "              <TR>" >> $TMPNAME
+		echo "                <TD width=\"10%\">"\<A href=\"$i.html\"\>\<IMG src=\"thumbs/$i\"\>\</A\>\</TD\> >> $TMPNAME
+		echo "                <TD width=\"3\">"\<IMG src=\"../../Images/blank.gif\" alt=\"\"\>\</TD\> >> $TMPNAME
+                echo "                <TD>"$KUVAUS"<P><STRONG>Kuvan l&auml;hett&auml;j&auml;: </STRONG>"$NIMI"<BR><STRONG>Kuva otettu: </STRONG>"$KUUKAUSI-$VUOSI"</TD>" >> $TMPNAME
+ 		echo "              </TR>" >> $TMPNAME
+		echo "              <TR>" >> $TMPNAME
+		echo "                <TD colspan="3"><HR></TD>" >> $TMPNAME
+		echo "              </TR>" >> $TMPNAME
+
+	cat $TMPNAME $PICDIR/$VUOSI/gallery-body.html > $TMPNAME2
+	mv $TMPNAME2 $PICDIR/$VUOSI/gallery-body.html
+	rm $TMPNAME
+
+	rm -f $PICDIR/$VUOSI/index.html
+
+	(sed s/XXXX/$VUOSI/g < $PICDIR/gallery-head.html ; cat $PICDIR/$VUOSI/gallery-body.html $PICDIR/gallery-tail.html) > $PICDIR/$VUOSI/index.html
+
+
+
+	rm $PICDIR/$VUOSI/gallery-locked
+
+        echo "            <H1>Kuva vastaanotettu, kiitos!</H1>"
+	echo "            <P>"
+	echo "            "Palaa tästä \<A href=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+	echo "            <P>"
+        echo "            "\<A href=\"$PICDIR/$VUOSI/\"\>Tästä\</A\> pääset vuoden $VUOSI kuvagalleriaan. 
+	cat $HTMLTAIL
+else
+	echo "            <H1>Kuvan vastaanotossa ongelmia. Tarkista tiedot ja yritä uudelleen.</H1>"
+	echo "            <P>"
+	echo "            "Palaa tästä \<A href=\"$HTTP_REFERER\"\>edelliselle sivulle.\</A\>
+	cat $HTMLTAIL
+	if [ -e $PICDIR/$VUOSI/pic-$KUUKAUSI-$NUM.jpg ] ; then
+	    rm $PICDIR/$VUOSI/pic-$KUUKAUSI-$NUM.jpg
+	fi
+fi
+
+
+
+
+
+

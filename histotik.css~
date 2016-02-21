@@ -1,0 +1,58 @@
+A:link		{ color: #003366 }
+
+A:visited	{ color: #3366CC }
+
+A:active	{ color: #3399FF }
+
+BLOCKQUOTE	{ font-size: 13pt; }
+
+BODY		{ color: #000000;
+		  background-color: #000000;
+		  font-family: "verdana", "helvetica", "arial", sans-serif;
+		  font-size: 12pt; }
+
+DIV		{ font-family: "verdana", "helvetica", "arial", sans-serif; }
+
+DIV.h2          { font-size: 14pt;
+		  font-weight: bold; }
+
+DIV.kuva	{ text-align: center;
+		  font-family: "times", "times roman", serif;
+		  font-style: italic;
+		  font-size: 12pt; }
+
+DIV.linkki      { font-size: 12pt;
+		  text-align: center; }
+
+DIV.lista       { font-size: 12pt;
+		  text-align: left; }
+
+H1		{ font-size: 22pt; }
+
+H2		{ font-size: 14pt; }
+
+H3		{ font-size: 12pt; }
+
+TD		{ vertical-align: text-top;
+	  	  font-family: "verdana", "helvetica", "arial", sans-serif; }
+		  
+TD.lista	{ font-size: 11pt; }
+
+TD.keskitetty	{ font-size: 12pt;
+		  text-align: center; }
+
+TD.h2           { font-size: 14pt;
+		  font-weight: bold;
+		  text-align: center; }
+
+TD.perus	{ font-size: 12pt; }
+
+TD.yla		{ font-weight: bold;
+		  font-size: 11pt; }
+
+TH		{ vertical-align: text-top;
+		  text-align: left;
+		  font-family: "verdana", "helvetica", "arial", sans-serif;
+		  font-size: 12pt;
+		  color: #000000;
+		  background-color: #8BBCFF; }

@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN http://www.w3.org/TR/REC-html40/loose.dtd>
+<HTML>
+  <HEAD>
+    <TITLE>histo.tik</TITLE>
+    <LINK rel=stylesheet type=text/css href=../histotik.css title=histo.tik>
+  </HEAD>
+  <BODY bgcolor=#000000 text=#000000 link=#003366 alink=#3399FF vlink=#3366CC>
+    <CENTER>
+      <TABLE background=../Images/background.gif width=700 border=0 cellspacing=0 cellpadding=0>
+        <TR>
+          <TD><IMG src=../Images/vy-kulma.gif alt= width=50 height=50></TD>
+          <TD width=600 height=50><IMG src=../Images/blank.gif alt=></TD>
+          <TD><IMG src=../Images/oy-kulma.gif alt= width=50 height=50></TD>
+        </TR>
+        <TR>
+          <TD><IMG src=../Images/blank.gif alt=></TD>
+          <TD class=keskitetty align=center>[<A href=../Kuva-arkisto/1984/>1984</A>] [<A href=../Kuva-arkisto/1985/>1985</A>] [<A href=../Kuva-arkisto/1986/>1986</A>] [<A href=../Kuva-arkisto/1987/>1987</A>] [<A href=../Kuva-arkisto/1988/>1988</A>] [<A href=../Kuva-arkisto/1989/>1989</A>]<BR>[<A href=../Kuva-arkisto/1990/>1990</A>] [<A href=../Kuva-arkisto/1991/>1991</A>] [<A href=../Kuva-arkisto/1992/>1992</A>] [<A href=../Kuva-arkisto/1993/>1993</A>] [<A href=../Kuva-arkisto/1994/>1994</A>] [<A href=../Kuva-arkisto/1995/>1995</A>] [<A href=../Kuva-arkisto/1996/>1996</A>][<A href=../Kuva-arkisto/1997/>1997</A>] [<A href=../Kuva-arkisto/1998/>1998</A>] [<A href=../Kuva-arkisto/1999/>1999</A>]<BR>[<A href=../Kuva-arkisto/2000/>2000</A>]</TD>
+          <TD><IMG src=../Images/blank.gif alt=></TD>
+        </TR>
+        <TR>
+          <TD><IMG src=../Images/va-kulma.gif alt= width=50 height=50></TD>
+          <TD width=600 height=50><IMG src=../Images/blank.gif alt=></TD>
+          <TD><IMG src=../Images/oa-kulma.gif alt= width=50 height=50></TD>
+        </TR>
+      </TABLE>
+      <P>
+      <TABLE background=../Images/background.gif width=700 border=0 cellspacing=0 cellpadding=0>
+        <TR>
+          <TD><IMG src=../Images/vy-kulma.gif alt= width=50 height=50></TD>
+          <TD width=600 height=50><IMG src=../Images/blank.gif alt=></TD>
+          <TD><IMG src=../Images/oy-kulma.gif alt= width=50 height=50></TD>
+        </TR>
+        <TR>
+          <TD><IMG src=../Images/blank.gif alt=></TD>
+          <TD class=perus>

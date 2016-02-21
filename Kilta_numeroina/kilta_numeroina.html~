@@ -1,0 +1,832 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+  <HEAD>
+    <TITLE>histo.tik</TITLE>
+    <LINK rel="stylesheet" type="text/css" href="../histotik.css" title="histo.tik">
+  </HEAD>
+  <BODY bgcolor="#000000" text="#000000" link="#003366" alink="#3399FF" vlink="#3366CC">
+    <A name="alku"></A>
+    <CENTER>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+          <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600" height="50"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+        <TR>
+          <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="perus">
+            <H1>Tilastoja killasta ja sen historiasta</H1>
+	    <DIV class="lista" align="left">
+	      <A name="pyrki"></A>[<A href="#pyrki">Pyrkineit&auml; (ensisijaisesti)</A>] [<A href="#hyvaksytty">Hyv&auml;ksyttyj&auml;</A>] [<A href="#pisteet">Alimmat pistem&auml;&auml;r&auml;t</A>]
+	    </DIV>
+	    <P>
+	    <TABLE background="" width="600" border="0" cellspacing="0" cellpadding="0">
+              <TR>
+	        <TH colspan="8" align="left" bgcolor="#8BBCFF">Pyrkineit&auml; (ensisijaisesti)</TH>
+	      </TR>
+	      <TR>
+	        <TD class="yla" align="center" valign="top">vuosi</TD>
+		<TD class="yla" align="center" valign="top">kaikki</TD>
+		<TD class="yla" align="center" valign="top">yo</TD>
+		<TD class="yla" align="center" valign="top">ei-yo</TD>
+		<TD class="yla" align="center" valign="top">v.ryhm&auml; 2</TD>
+		<TD class="yla" align="center" valign="top">erik.tap.</TD>
+		<TD class="yla" align="center" valign="top">yo-ins</TD>
+		<TD class="yla" align="center" valign="top">koko TKK</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1984</TD>
+		<TD class="lista" align="center" valign="top">343</TD>
+		<TD class="lista" align="center" valign="top">342</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2886</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1985</TD>
+		<TD class="lista" align="center" valign="top">275</TD>
+		<TD class="lista" align="center" valign="top">270</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2739</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1986</TD>
+		<TD class="lista" align="center" valign="top">203</TD>
+		<TD class="lista" align="center" valign="top">198</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2587</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1987</TD>
+		<TD class="lista" align="center" valign="top">216</TD>
+		<TD class="lista" align="center" valign="top">213</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2742</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1988</TD>
+		<TD class="lista" align="center" valign="top">208</TD>
+		<TD class="lista" align="center" valign="top">198</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+	        <TD class="lista" align="center" valign="top">2475</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1989</TD>
+		<TD class="lista" align="center" valign="top">221</TD>
+		<TD class="lista" align="center" valign="top">211</TD>
+		<TD class="lista" align="center" valign="top">5</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">5</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2421</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1990</TD>
+		<TD class="lista" align="center" valign="top">250</TD>
+		<TD class="lista" align="center" valign="top">241</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">8</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2906</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1991</TD>
+		<TD class="lista" align="center" valign="top">247</TD>
+		<TD class="lista" align="center" valign="top">232</TD>
+		<TD class="lista" align="center" valign="top">12</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3253</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1992</TD>
+		<TD class="lista" align="center" valign="top">230</TD>
+		<TD class="lista" align="center" valign="top">207</TD>
+		<TD class="lista" align="center" valign="top">13</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">10</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3033</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1993</TD>
+		<TD class="lista" align="center" valign="top">311</TD>
+		<TD class="lista" align="center" valign="top">274</TD>
+		<TD class="lista" align="center" valign="top">30</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">7</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3257</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1994</TD>
+		<TD class="lista" align="center" valign="top">352</TD>
+		<TD class="lista" align="center" valign="top">315</TD>
+		<TD class="lista" align="center" valign="top">26</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">11</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3192</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1995</TD>
+		<TD class="lista" align="center" valign="top">422</TD>
+		<TD class="lista" align="center" valign="top">377</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">29</TD>
+		<TD class="lista" align="center" valign="top">10</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">3218</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1996</TD>
+		<TD class="lista" align="center" valign="top">441</TD>
+		<TD class="lista" align="center" valign="top">404</TD>
+		<TD class="lista" align="center" valign="top">20</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">17</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2950</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1997</TD>
+		<TD class="lista" align="center" valign="top">538</TD>
+		<TD class="lista" align="center" valign="top">495</TD>
+		<TD class="lista" align="center" valign="top">12</TD>
+		<TD class="lista" align="center" valign="top">7</TD>
+		<TD class="lista" align="center" valign="top">24</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3062</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1998</TD>
+		<TD class="lista" align="center" valign="top">504</TD>
+		<TD class="lista" align="center" valign="top">465</TD>
+		<TD class="lista" align="center" valign="top">13</TD>
+		<TD class="lista" align="center" valign="top">9</TD>
+		<TD class="lista" align="center" valign="top">17</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2894</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1999</TD>
+		<TD class="lista" align="center" valign="top">510</TD>
+		<TD class="lista" align="center" valign="top">489</TD>
+		<TD class="lista" align="center" valign="top">21</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2784</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2000</TD>
+		<TD class="lista" align="center" valign="top">466</TD>
+		<TD class="lista" align="center" valign="top">447</TD>
+		<TD class="lista" align="center" valign="top">19</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2753</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2001</TD>
+		<TD class="lista" align="center" valign="top">440</TD>
+		<TD class="lista" align="center" valign="top">432</TD>
+		<TD class="lista" align="center" valign="top">8</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2725</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2002</TD>
+		<TD class="lista" align="center" valign="top">319</TD>
+		<TD class="lista" align="center" valign="top">303</TD>
+		<TD class="lista" align="center" valign="top">16</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2885</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2003</TD>
+		<TD class="lista" align="center" valign="top">223</TD>
+		<TD class="lista" align="center" valign="top">208</TD>
+		<TD class="lista" align="center" valign="top">15</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2761</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2004</TD>
+		<TD class="lista" align="center" valign="top">187</TD>
+		<TD class="lista" align="center" valign="top">171</TD>
+		<TD class="lista" align="center" valign="top">16</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2710</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2005</TD>
+		<TD class="lista" align="center" valign="top">185</TD>
+		<TD class="lista" align="center" valign="top">166</TD>
+		<TD class="lista" align="center" valign="top">19</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2592</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2006</TD>
+		<TD class="lista" align="center" valign="top">138</TD>
+		<TD class="lista" align="center" valign="top">127</TD>
+		<TD class="lista" align="center" valign="top">11</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2326</TD>
+	      </TR>
+            </TABLE>
+	    <P>
+	    <DIV class="lista" align="left">
+	      <A name="hyvaksytty"></A>[<A href="#pyrki">Pyrkineit&auml; (ensisijaisesti)</A>] [<A href="#hyvaksytty">Hyv&auml;ksyttyj&auml;</A>] [<A href="#pisteet">Alimmat pistem&auml;&auml;r&auml;t</A>]
+	    </DIV>
+	    <P>
+	    <TABLE background="" width="600" border="0" cellspacing="0" cellpadding="0">
+              <TR>
+	        <TH colspan="8" align="left" bgcolor="#8BBCFF">Hyv&auml;ksyttyj&auml;</TH>
+	      </TR>
+	      <TR>
+                <TD class="yla" align="center" valign="top">vuosi</TD>
+		<TD class="yla" align="center" valign="top">kaikki</TD>
+		<TD class="yla" align="center" valign="top">yo</TD>
+		<TD class="yla" align="center" valign="top">ei-yo</TD>
+		<TD class="yla" align="center" valign="top">v.ryhm&auml; 2</TD>
+		<TD class="yla" align="center" valign="top">erik.tap.</TD>
+		<TD class="yla" align="center" valign="top">yo-ins</TD>
+		<TD class="yla" align="center" valign="top">koko TKK</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1984</TD>
+		<TD class="lista" align="center" valign="top">85</TD>
+		<TD class="lista" align="center" valign="top">84</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1093</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1985</TD>
+		<TD class="lista" align="center" valign="top">77</TD>
+		<TD class="lista" align="center" valign="top">74</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1192</TD>
+	      </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1986</TD>
+		<TD class="lista" align="center" valign="top">88</TD>
+		<TD class="lista" align="center" valign="top">85</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1218</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1987</TD>
+		<TD class="lista" align="center" valign="top">113</TD>
+		<TD class="lista" align="center" valign="top">111</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1307</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1988</TD>
+		<TD class="lista" align="center" valign="top">129</TD>
+		<TD class="lista" align="center" valign="top">121</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">5</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1354</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1989</TD>
+		<TD class="lista" align="center" valign="top">138</TD>
+		<TD class="lista" align="center" valign="top">134</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1415</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1990</TD>
+	        <TD class="lista" align="center" valign="top">113</TD>
+		<TD class="lista" align="center" valign="top">106</TD>
+		<TD class="lista" align="center" valign="top">1</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1288</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1991</TD>
+		<TD class="lista" align="center" valign="top">104</TD>
+		<TD class="lista" align="center" valign="top">97</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1229</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1992</TD>
+		<TD class="lista" align="center" valign="top">103</TD>
+		<TD class="lista" align="center" valign="top">89</TD>
+		<TD class="lista" align="center" valign="top">8</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1202</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1993</TD>
+		<TD class="lista" align="center" valign="top">99</TD>
+		<TD class="lista" align="center" valign="top">82</TD>
+		<TD class="lista" align="center" valign="top">13</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1245</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1994</TD>
+		<TD class="lista" align="center" valign="top">105</TD>
+		<TD class="lista" align="center" valign="top">85</TD>
+		<TD class="lista" align="center" valign="top">13</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">7</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1170</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1995</TD>
+		<TD class="lista" align="center" valign="top">157</TD>
+		<TD class="lista" align="center" valign="top">144</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">7</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1243</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1996</TD>
+		<TD class="lista" align="center" valign="top">167</TD>
+	        <TD class="lista" align="center" valign="top">159</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1309</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1997</TD>
+	        <TD class="lista" align="center" valign="top">169</TD>
+		<TD class="lista" align="center" valign="top">152</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">17</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1477</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1998</TD>
+		<TD class="lista" align="center" valign="top">219</TD>
+		<TD class="lista" align="center" valign="top">202</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">6</TD>
+		<TD class="lista" align="center" valign="top">9</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1585</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1999</TD>
+		<TD class="lista" align="center" valign="top">195</TD>
+		<TD class="lista" align="center" valign="top">176</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">17</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1573</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2000 [1]</TD>
+		<TD class="lista" align="center" valign="top">211</TD>
+		<TD class="lista" align="center" valign="top">179</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">30</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1673</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2001 [1]</TD>
+		<TD class="lista" align="center" valign="top">168</TD>
+		<TD class="lista" align="center" valign="top">?</TD>
+		<TD class="lista" align="center" valign="top">?</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">31</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1578</TD>
+              </TR>
+						<TR>
+                <TD class="lista" align="center" valign="top">2002</TD>
+		<TD class="lista" align="center" valign="top">149</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">32</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1598</TD>
+              </TR>
+						<TR>
+                <TD class="lista" align="center" valign="top">2003</TD>
+		<TD class="lista" align="center" valign="top">135</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">26</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1547</TD>
+              </TR>
+						<TR>
+                <TD class="lista" align="center" valign="top">2004</TD>
+		<TD class="lista" align="center" valign="top">137</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">20</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1510</TD>
+              </TR>
+						<TR>
+                <TD class="lista" align="center" valign="top">2005</TD>
+		<TD class="lista" align="center" valign="top">137</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">12</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1501</TD>
+              </TR>
+						<TR>
+                <TD class="lista" align="center" valign="top">2006</TD>
+		<TD class="lista" align="center" valign="top">126</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">10</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">1430</TD>
+              </TR>
+            </TABLE>      
+	    <P>
+	    <DIV class="lista" align="left">
+	      [1] Taulukossa ei ole huomioitu koulutusohjelman
+	      vaihtajia, ulkomaisen yo-tutkinnon suorittaneita,
+	      muuntokoulutettavia tai muita erillisvalinnassa hyväksyttyjä.
+	    </DIV> 
+	    <P>
+	    <DIV class="lista" align="left">
+	      <A name="pisteet"></A>[<A href="#pyrki">Pyrkineit&auml; (ensisijaisesti)</A>] [<A href="#hyvaksytty">Hyv&auml;ksyttyj&auml;</A>] [<A href="#pisteet">Alimmat pistem&auml;&auml;r&auml;t</A>]
+	    </DIV>
+	    <P>
+	    <TABLE background="" width="600" border="0" cellspacing="0" cellpadding="0">    
+	      <TR>
+	        <TH  colspan="9" align="left" bgcolor="#8BBCFF">Alimmat pistem&auml;&auml;r&auml;t</TH>
+	      </TR>
+	      <TR>
+                <TD class="yla" align="center" valign="top">vuosi</TD>
+		<TD class="yla" align="center" valign="top">kaikki</TD>
+		<TD class="yla" align="center" valign="top">koep.</TD>
+		<TD class="yla" align="center" valign="top">ei-yo</TD>
+		<TD class="yla" align="center" valign="top">v.ryhm&auml; 2</TD>
+		<TD class="yla" align="center" valign="top">sija</TD>
+		<TD class="yla" align="center" valign="top">1.</TD>
+		<TD class="yla" align="center" valign="top">2.</TD>
+		<TD class="yla" align="center" valign="top">3.</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1984</TD>
+		<TD class="lista" align="center" valign="top">65,17</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">56,81</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">76,66 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">70,67 (Tf)</TD>
+	        <TD class="lista" align="center" valign="top">65,17 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1985</TD>
+		<TD class="lista" align="center" valign="top">60,64</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">45,56</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">2</TD>
+		<TD class="lista" align="center" valign="top">66,28 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">60,64 (Ti)</TD>
+		<TD class="lista" align="center" valign="top"></TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1986</TD>
+		<TD class="lista" align="center" valign="top">61,68</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">49,22</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">70,59 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">65,90 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">61,68 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1987</TD>
+		<TD class="lista" align="center" valign="top">57,93</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">57,91</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">69,66 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">62,96 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">57,93 (Ti)</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1988</TD>
+		<TD class="lista" align="center" valign="top">62,55</TD>
+		<TD class="lista" align="center" valign="top">27,44</TD>
+		<TD class="lista" align="center" valign="top">16,33</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">74,39 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">68,97 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">62,55 (Ti)</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1989</TD>
+	        <TD class="lista" align="center" valign="top">54,37</TD>
+		<TD class="lista" align="center" valign="top">21,33</TD>
+		<TD class="lista" align="center" valign="top">17,44</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">71,98 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">65,00 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">55,37 (Ke)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1990</TD>
+	        <TD class="lista" align="center" valign="top">59,32</TD>
+		<TD class="lista" align="center" valign="top">25,78</TD>
+		<TD class="lista" align="center" valign="top">15,78</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">70,61 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">66,22 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">59,32 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1991</TD>
+		<TD class="lista" align="center" valign="top">40,12</TD>
+	        <TD class="lista" align="center" valign="top">21,33</TD>
+		<TD class="lista" align="center" valign="top">16,89</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">51,44 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">47,67 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">40,12 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1992</TD>
+		<TD class="lista" align="center" valign="top">38,56</TD>
+		<TD class="lista" align="center" valign="top">21,89</TD>
+		<TD class="lista" align="center" valign="top">10,78</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">5</TD>
+		<TD class="lista" align="center" valign="top">49,33 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">48,11 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">43,45 (Ke)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1993</TD>
+		<TD class="lista" align="center" valign="top">41,56</TD>
+		<TD class="lista" align="center" valign="top">25,77</TD>
+		<TD class="lista" align="center" valign="top">6,67</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">52,00 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">48,44 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">45,44 (Ke)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1994</TD>
+		<TD class="lista" align="center" valign="top">44,22</TD>
+		<TD class="lista" align="center" valign="top">22,78</TD>
+		<TD class="lista" align="center" valign="top">8,00</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">50,89 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">48,67 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">44,22 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1995</TD>
+		<TD class="lista" align="center" valign="top">46,56</TD>
+		<TD class="lista" align="center" valign="top">28,89</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">28,00</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">54,78 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">53,89 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">49,22 (Ke)</TD>
+              </TR>
+	      <TR>
+	        <TD class="lista" align="center" valign="top">1996</TD>
+		<TD class="lista" align="center" valign="top">47,23</TD>
+		<TD class="lista" align="center" valign="top">28,55</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">31,33</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">56,11 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">54,56 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">47,23 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1997</TD>
+		<TD class="lista" align="center" valign="top">43,89</TD>
+		<TD class="lista" align="center" valign="top">25,22</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">49,45 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">48,45 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">43,89 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1998</TD>
+		<TD class="lista" align="center" valign="top">44,00</TD>
+		<TD class="lista" align="center" valign="top">24,67</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">20,56</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">55,55 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">54,11 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">44,22 (Aut)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">1999</TD>
+		<TD class="lista" align="center" valign="top">38,66</TD>
+		<TD class="lista" align="center" valign="top">20,22</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">22,34</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">53,00 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">48,22 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">40,77 (Ke)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2000</TD>
+		<TD class="lista" align="center" valign="top">36,67</TD>
+		<TD class="lista" align="center" valign="top">18,56</TD>
+		<TD class="lista" align="center" valign="top">17,78</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">48,33 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">44,77 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">38,33 (Ke)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2001</TD>
+		<TD class="lista" align="center" valign="top">47,00</TD>
+		<TD class="lista" align="center" valign="top">26,34</TD>
+		<TD class="lista" align="center" valign="top">?</TD>
+		<TD class="lista" align="center" valign="top">0</TD>
+		<TD class="lista" align="center" valign="top">3</TD>
+		<TD class="lista" align="center" valign="top">58,78 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">55,22 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">47,00 (Ti)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2002</TD>
+		<TD class="lista" align="center" valign="top">45,22</TD>
+		<TD class="lista" align="center" valign="top">24,67</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">4</TD>
+		<TD class="lista" align="center" valign="top">56,89 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">52,56 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">51,45 (Inf)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2003</TD>
+		<TD class="lista" align="center" valign="top">41,45</TD>
+		<TD class="lista" align="center" valign="top">20,23</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">7</TD>
+		<TD class="lista" align="center" valign="top">57,34 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">57,33 (Bio)</TD>
+		<TD class="lista" align="center" valign="top">53,89 (Tf)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2004</TD>
+		<TD class="lista" align="center" valign="top">39,45</TD>
+		<TD class="lista" align="center" valign="top">18,56</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">8</TD>
+		<TD class="lista" align="center" valign="top">55,56 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">54,67 (Tf)</TD>
+		<TD class="lista" align="center" valign="top">53,89 (Bio)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2005</TD>
+		<TD class="lista" align="center" valign="top">34,44</TD>
+		<TD class="lista" align="center" valign="top">16,89</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">8</TD>
+		<TD class="lista" align="center" valign="top">56,89 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">54,11 (Bio)</TD>
+		<TD class="lista" align="center" valign="top">53,44 (Tf)</TD>
+              </TR>
+	      <TR>
+                <TD class="lista" align="center" valign="top">2006</TD>
+		<TD class="lista" align="center" valign="top">25,78</TD>
+		<TD class="lista" align="center" valign="top">9,11</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">-</TD>
+		<TD class="lista" align="center" valign="top">11</TD>
+		<TD class="lista" align="center" valign="top">50,11 (Tu)</TD>
+		<TD class="lista" align="center" valign="top">47,78 (Bio)</TD>
+		<TD class="lista" align="center" valign="top">45,00 (Tf)</TD>
+              </TR>
+            </TABLE>
+	    <P>
+	    <DIV class="linkki" align="center">
+	      [<A href="#alku">sivun alkuun</A>]
+	    </DIV>
+          </TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+        </TR>
+        <TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+      </TABLE>
+      <P>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+          <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>  
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+        <TR>
+          <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="keskitetty" align="center">[<A href="../Vuosi_vuodelta/alkutaival.html">Vuosi&nbsp;vuodelta</A>] [<A href="../Alkorytmi/alkorytmi.html">Alkorytmi</A>] [<A href="../Lenskin_Dynamo/lenskin_dynamo.html">Lenskin&nbsp;Dynamo</A>] [<A href="../Slangia_ilmioita/slangia_ilmioita.html">Slangia&nbsp;&&nbsp;ilmi&ouml;it&auml;</A>] [<A href="../Kilta_numeroina/kilta_numeroina.html">Kilta&nbsp;numeroina</A>] [<A href="../Kuva-arkisto/kuva-arkisto.html">Kuva-arkisto</A>] [<A href="../Syyllisia_selityksia/syyllisia_selityksia.html">Syyllisi&auml;&nbsp;&&nbsp;selityksi&auml;</A>] [<A href="../Anna_palautetta/anna_palautetta.html">Anna&nbsp;palautetta</A>]</TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+        </TR>
+        <TR>
+          <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+      </TABLE>
+    </CENTER>
+  </BODY>
+</HTML>
