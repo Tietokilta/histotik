@@ -1,0 +1,534 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+  <HEAD>
+    <TITLE>histo.tik</TITLE>
+    <LINK rel="stylesheet" type="text/css" href="../histotik.css" title="histo.tik">
+  </HEAD>
+  <BODY bgcolor="#000000" text="#000000" link="#003366" alink="#3399FF" vlink="#3366CC">
+    <A name="alku"></A>
+    <CENTER>
+      <TABLE background="../Images/background.gif" width="800" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="700"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+	<TR>
+ 	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="h2" align="center"><STRONG>Vuosi vuodelta</STRONG></TD>
+ 	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+          <TD class="keskitetty" align="center">
+	    <!--#include virtual="year_header.html" -->
+</TD>
+
+	  
+<TD><IMG 
+src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+      </TABLE>
+      <P>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+	<TR>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="perus">
+	    <H1>2014 - Kilta jatkaa nahansa luontia</H1>
+	    [<A href="#Hallitus">Hallitus ja toimihenkilöt</A>] 
+<p>
+Vuosi 2014 räjähti käyntiin perinteisin menoin Kaukkareilla ja vaikka tammikuussa kokeiltiinkin mm. kilta-hackathonia, sujui alkuvuosi melko perinteisissä merkeissä. 
+</p>
+<p>
+Muisti nollattiin Berghyddanilla 21.2.2014 ja teema oli tällä kertaa ydinkatastrofit, joilta kuitenkin itse juhlissa vältyttiin. ProTiK-palkinto päätettiin jakaa pitkän linjan kilta-aktiiveille Maija Salmiselle, Olli Mäkiselle ja Jyry Suvilehdolle.
+</p>
+<p>
+Tietokillalla oli vuonna 2014 ilo ja kunnia järjestää Tietoteekkarien taistot ja tämän huikean, koko Suomen tietoteekkarit yhteen kokoavan tapahtuman järjesti titeenitoimikunta. Lajeina oli mm. Twitch plays mortal combat ja serverikyykkä. Voittoo ei tällä kertaa venytty, mutta tapahtuman kokonaisvaltaista onnistumista voinee pitää eräänlaisena voittona.
+</p>
+<p>
+Killan kansainvälistymiskehitys jatkui vahvana. Vuonna 2013 hallitukseen otettu kv-mestarin virka sai jatkoa ja ulkkaritoiminta normalisoitui osaksi killan toimintakulttuuria.
+</p>
+<p>
+Vuoden 2014 Tietokillan fuksien bileet, Cännärit järjestettiin tällä kertaa viidakko-teemalla Namussa.
+</p>
+<p>
+Kesäkokousta vietettiin railakkaasti Kattilajärvellä Espoon Nuuksiossa.
+</p>
+<p>
+Yhteistyötä Otaniemen sisällä kehitettiin tiivistämällä entisestään toiminaan Perustieteiden korkeakoulun ainejärjestöjen kanssa ja erityistä kiitosta on pakko antaa Perustieteiden korkeakoulun dekaani Risto Niemiselle, jonka panostus yhteistyöhon SCI-kiltojen suuntaa oli poikkeuksellisen aktiivista ja kehittävää.
+</p>
+<p>
+Kiltalaisten kulttuurinkaipuuta hoidettiin mm. perinteisillä speksireissuilla ja uutena tulokkaana killan kulttuuriareenalle saapui panssarimuseo-excursio Parolaan.
+</p>
+<p>
+Killan ulkomaanexcursioista jaloin, eli Lenskin excursio järjestettiin perinteisin menoin Venälle ja tällä kertaa mukaan oli pyydetty myös ystävämmekiltamme AS. Lenskiltä selvittiin ilman mies,nais- tai aasitappioita.
+</p
+<p>
+Vuoden 2013 Otatarhan ajojen voittosta innostuneina kiltalaiset päättivät rakentaa jälleen ajokin ja osallistua 2014 Otatarhan ajoihin. Tällä kertaa ajokki ei aivan riittänyt voittoon, mutta showssa riitti vauhtia ja vaarallisia tilanteita. 
+</p>
+<p>
+Kaiken kaikkiaan vuosi 2014 oli ainakin näin puheenjohtajan pallilta katsottuna mielenkiintoinen ja monipuolinen vuosi, jonka aikana kiltaa ja kiltalaisia näkyi mitä mielenkiintoisimmissa ja jännimmissä projekteissä ympäri Otaniemeä ylläpitämässä killan kunniaa ja teekkarihenkeä.
+</p>
+<p><em>Sampsa Laapotti<br>
+Tietokillan hallituksen puheenjohtaja 2014</em>
+
+	  </TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	</TR>
+	<TR>
+	  <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+	</TR>
+      </TABLE>
+      <P>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+	  <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+	<TR>
+	  <TD><!--<IMG src="../Images/blank.gif" alt="">--></TD>
+	  <TD>
+	    <TABLE background="" width="600" border="0" cellspacing="0" cellpadding="0">
+	      <TR>
+	        <TD class="lista" align="left" valign="top">
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="3">
+		    <TR>
+		      <TH colspan="2" align="left" bgcolor="#8BBCFF"><A name="Hallitus"></A>Hallitus</TH>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Puheenjohtaja</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Sampsa Laapotti</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Sihteeri</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Alkuvuodesta: Joonas Ulmanen, Loppuvuodesta: Otso Jylhä</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Rahastonhoitaja</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Tapani Riittinen</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Fhuksiwaari</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Juho Toivonen</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">KV-mestari</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Laura Sirola</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Isäntä & Isäntä</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Sami Lappalainen<BR>Eero Soikkeli</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Sisämestari</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Oskari Nousiainen</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Ulkomestari</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Hannu Huhtanen</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Opintomestari</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Meeri Mäki-Kullas</TD>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="145" align="left" valign="top">Yrityssuhdemestari</TD>
+		      <TD class="lista" width="145" align="left" valign="top">Ville Tainio</TD>
+		    </TR>
+    	          </TABLE>
+		  <P>
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="0">
+		    <TR>
+		      <TH align="left" bgcolor="#8BBCFF">Toiminnantarkastajat</TH>
+		    </TR>	      
+		    <TR>
+		      <TD class="lista" width="290" align="left" valign="top">Jussi Päivinen<BR>(varalla Paavo Lehtelä)<BR>Anssi Kolehmainen<BR>(varalla Katariina Laakkonen)</TD>
+		    </TR>
+	          </TABLE>
+		  <P>
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="0">
+		    <TR>
+		      <TH align="left" bgcolor="#8BBCFF">Oltermanni</TH>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="290" align="left" valign="top">Keijo Heljanko</TD>
+		    </TR>
+	          </TABLE>
+		  <P>
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="0">
+		    <TR>
+		      <TH align="left" bgcolor="#8BBCFF">Kiltakummi</TH>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="290" align="left" valign="top">Sofi Perikangas, AYYH</TD>
+		    </TR>
+	          </TABLE>
+		  <P>
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="0">
+		    <TR>
+		      <TH align="left" bgcolor="#8BBCFF">ProTiK</TH>
+		    </TR>
+		    <TR>
+		      <TD class="lista" width="290" align="left" valign="top"><br>Maija Salminen<br>Olli Mäkinen<br>Jyry Suvilehto</TD>
+		    </TR>
+	          </TABLE>
+		</TD>
+		<TD width="20"></TD>
+		<TD class="lista" align="left" valign="top"> 
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="1">
+		    <TR>
+		      <TH colspan="2" align="left" bgcolor="#8BBCFF">Toimihenkilöt</TH>
+		    </TR>
+		    <TR>
+                      <TD class="lista" width="145" align="left" valign="top">Yliphuksiwaari Joonas ℕ Suuri Phuksien Pelastaja</TD>
+                      <TD class="lista" width="145" align="left" valign="top">Joonas Nissinen</TD>
+                    </TR>
+                 <TR>
+		 <TR>
+                      <TD class="lista" width="145" align="left" valign="top">Abilobbari</TD>
+                      <TD class="lista" width="145" align="left" valign="top">Essi Jukkala</TD>
+                    </TR>
+		 <TR>           
+		   <TD class="lista" width="145" align="left" valign="top">Alkorytmin kuvaaja</TD>         
+		   <TD class="lista" width="145" align="left" valign="top">Nuno Silva</TD>
+                 </TR>
+		 <TR>
+		   <TD class="lista" width="145" align="left" valign="top">Alkorytmin oikolukija</TD>
+		   <TD class="lista" width="145" align="left" valign="top">Tapani Riittinen</TD>
+		 </TR>
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Alkorytmin päätoimittaja</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Nicolas Saarela</TD>
+                 </TR>
+		  <TR>
+		   <TD class="lista" width="145" align="left" valign="top">Alkorytmin pulmatoimittaja</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Oskari Nousiainen</TD>
+                 </TR>
+		 <TR>
+		   <TD class="lista" width="145" align="left" valign="top">Alkorytmin taittaja</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Antti Virtanen</TD>
+                 </TR>
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Alkorytmin toimittaja</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Sampo Vartiala</TD>
+                 </TR>
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Alkorytmin toimittajaparoni</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Osmo Maksimainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Ampuma-arvojen laskija</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Oskari Nousiainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">CänCän</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Juho Toivonen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Cännibää</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Osmo Maksimainen</TD>
+                 </TR>
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Cännipää</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Jami Lindh</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Dynamiina</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Eero Helske</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Dynamiitti</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Oskari Päivinen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Golfmailavastaava</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Oskari Nousiainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Graafikko</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Sami Rönkä</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Herkkukurkut</TD>
+                   <TD class="lista" width="145" align="left" valign="top">
+		     Anssi Matti Helin<br>
+		     Joonas Ulmanen<br>
+		     Paavo Lehtelä
+		   </TD>
+                </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">ISOpomo</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Lotta Kangas</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Jättipomo</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Anssi Matti Helin</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">joku weba jantteri tms shitti</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Antti Risteli</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Junioriseniorisetäti</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Katariina Laakkonen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Juomanahtaajat</TD>
+                   <TD class="lista" width="145" align="left" valign="top">
+		     Joonas Ulmanen<br>
+		     Simo Riihimäki<br>
+		     Terhi Tenhunen<br>
+		     Maria Tudose<br>
+		     Olli Kanerva<br>
+		     Henri Nurmi<br>
+		     Joni Niittyniemi<br>
+		     Joonas Palm<br>
+		     Sampo Vartiala<br>
+		     Lassi Heikkinen<br>
+		     Sami Rönkä<br>
+		     Nuno Silva<br>
+		     Antti Ahvonen<br>
+		     Aleksi Asikainen<br>
+		     Mathieu Aria<br>
+		     Gaja Kochaniewicz<br>
+		     Mikael Harju
+		   </TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Kääntäjä</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Tapani Riittinen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Korkeakulttuurivastaava</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Oskari Nousiainen</TD>
+                 </TR>
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Leffamoguli</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Tapani Riittinen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Mauno Koivisto</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Jere Nevalainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">MT-LB Kapteeni</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Sampsa Laapotti</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Muistinnollaustirehtöörit</TD>
+                   <TD class="lista" width="145" align="left" valign="top">
+		     Lauri Peltoja<br>
+		     Sampsa Laapotti
+		   </TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Namusetä</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Jere Nevalainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Opintohöylääjät</TD>
+                   <TD class="lista" width="145" align="left" valign="top">
+		     Kimmo Ahokas<br>
+		     Johanna Haara<br>
+		     Samu Hautala<br>
+		     Tuomas Kinnunen<br>
+		     Laura Koponen<br>
+		     Meeri Mäki-Kullas<br>
+		     Laura Sirola<br>
+		     Olli Syrjälä
+		   </TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Pelimies</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Iiro Tähkä</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Penkinlämmittäjä</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Joonas Nissinen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Reissumies</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Sampsa Laapotti</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Rynnäkköviestiupseeri</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Jami Lindh</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Säätäjät</TD>
+                   <TD class="lista" width="145" align="left" valign="top">
+		   Jami Lindh<br>
+		   Oskari Nousiainen
+		   </TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Saatana</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Jere Nevalainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Salainen ylipäällikkö</TD>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Saunamajuri</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Paavo Lehtelä</TD>
+                 </TR>		
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">SCImbaaja</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Lauri Peltola</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Seniili</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Olli Mäkinen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Seniilisetä</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Juuso Mäyränen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Sisätoimikunnan ruokakonsultti</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Paavo Lehtelä</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Steinerlapsi</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Sten Hagglund</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">TEK-yhdyshenkilö</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Lauri Peltola</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Tenttiarkistoija</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Tapani Riittinen</TD>
+                 </TR>
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Tissimestari</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Hannu Huhtanen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Titeenitirehtööri</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Jere Nevalainen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Titeenitontut</TD>
+                   <TD class="lista" width="145" align="left" valign="top">
+		 Anssi Matti Helin<br>
+                 Gaja Kochaniewicz<br>
+                 Osmo Maksimainen<br>
+                 Oskari Nousiainen<br>
+                 Simo Riihimäki<br>
+                 Hannu Saransaari<br>
+                 Sipi Seppälä<br>
+                 Iiro Tähkä<br>
+                 Lassi Heikkinen<br>
+                 Sami Rönkä<br>
+                 Sampo Vartiala<br>
+                 Teemu Kokkonen<br>
+                 Nuno Silva<br>
+		   </TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Tulenjohtaja</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Hannu Saransaari</TD>
+                 </TR>
+		  <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Vesisotamarsalkka</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Tapani Riittinen</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Wanha KV</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Gaja Kochaniewicz</TD>
+                 </TR>                
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">Ylisäätäjä</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Anssi Matti Helin</TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top">бригадный генерал</TD>
+                   <TD class="lista" width="145" align="left" valign="top">Sami Lappalainen</TD>
+                 </TR>                 
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                 </TR>                 
+		 <TR>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                 </TR>
+                 <TR>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                   <TD class="lista" width="145" align="left" valign="top"></TD>
+                 </TR>
+		  </TABLE>
+		  <P>
+		  <TABLE background="" width="290" border="0" cellspacing="0" cellpadding="0">
+		    <TR>
+		      <TH align="left" bgcolor="#8BBCFF">Toimikunnat</TH>
+		    </TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Phuksitoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Sisätoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Muistinnollaustoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Opintotoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Ulkotoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Rytmiryhmä</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Lukkaritoimikunta</TD></TR>
+  		    <TR><TD class="lista" width="290" align="left" valign="top">Kulttuuri- ja liikuntatoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Intterwebtoimikunta</TD></TR>		    
+		    <TR><TD class="lista" width="290" align="left" valign="top">Vetypommitoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Naamiotoimikunta</TD></TR>
+		    <TR><TD class="lista" width="290" align="left" valign="top">Seniilitoimikunta</TD></TR>
+		  </TABLE>
+		</TD>
+	      </TR>
+	    </TABLE>
+	    <P>
+	    <DIV class="linkki" align="center">
+	      [<A href="#alku">Sivun alkuun</A>]
+	    </DIV>
+	  </TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+        </TR>
+	<TR>
+          <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+      </TABLE>
+      <P>
+      <TABLE background="../Images/background.gif" width="700" border="0" cellspacing="0" cellpadding="0">
+        <TR>
+          <TD><IMG src="../Images/vy-kulma.gif" alt="" width="50" height="50"></TD>
+	  <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>  
+	  <TD><IMG src="../Images/oy-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+	<TR>
+          <TD><IMG src="../Images/blank.gif" alt=""></TD>
+	  <TD class="keskitetty" align="center">[<A href="alkutaival.html">Vuosi&nbsp;vuodelta</A>] [<A href="../Alkorytmi/alkorytmi.html">Alkorytmi</A>] [<A href="../Lenskin_Dynamo/lenskin_dynamo.html">Lenskin&nbsp;Dynamo</A>] [<A href="../Slangia_ilmioita/slangia_ilmioita.html">Slangia&nbsp;&&nbsp;ilmiöitä</A>] [<A href="../Kilta_numeroina/kilta_numeroina.html">Kilta&nbsp;numeroina</A>] [<A href="../Kuva-arkisto/kuva-arkisto.html">Kuva-arkisto</A>] [<A href="../Syyllisia_selityksia/syyllisia_selityksia.html">Syyllisiä&nbsp;&&nbsp;selityksiä</A>] [<A href="../Anna_palautetta/anna_palautetta.html">Anna&nbsp;palautetta</A>]</TD>
+	  <TD><IMG src="../Images/blank.gif" alt=""></TD>
+        </TR>
+        <TR>
+          <TD><IMG src="../Images/va-kulma.gif" alt="" width="50" height="50"></TD>
+          <TD width="600"><IMG src="../Images/blank.gif" alt=""></TD>
+          <TD><IMG src="../Images/oa-kulma.gif" alt="" width="50" height="50"></TD>
+        </TR>
+      </TABLE>
+    </CENTER>
+  </BODY>
+</HTML>
