@@ -30,7 +30,7 @@
 # sendmail-ohjelman sijainti ja kutsu (kts. man sendmail):
 $sendmail = "/usr/lib/sendmail -t -oi";
 # mieti seuraavia määrittelyjä
-$toaddress = "pj\@niksula.hut.fi";
+$toaddress = "pj\@tietokilta.fi";
 #defaults
 $subject = "histo.tik Palaute";
 $server = "hype.tcm.hut.fi";
