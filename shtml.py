@@ -34,7 +34,7 @@ def include_file(calling_file, depth, match):
     raise RecursionError("too deeply nested #include in " + calling_file)
 
   resolved = os.path.join(os.path.dirname(calling_file), match.group(1))
-  return process_shtml(resolved)
+  return process_shtml(resolved, depth)
 
 def replace_shtml(file, outfile):
   content = process_shtml(file)
