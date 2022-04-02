@@ -1,0 +1,34 @@
+name: Upload to Azure CDN
+on:
+  push:
+    branches:
+      - master
+jobs:
+  upload:
+    name: Upload to Azure CDN
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      -
+        name: Check out the repo
+        uses: actions/checkout@v2
+      -
+        name: Preprocess contents
+        run: python3 shtml.py
+      -
+        name: Login to Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+      -
+        name: Upload contents
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob sync --account-name histotikprodsa --container "$web" --source . --exclude-path ".git;.gitignore;cgi-bin;shtml.py"
+      -
+        name: Purge CDN cache
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az cdn endpoint purge --resource-group histotik-prod-rg --profile-name histotik-prod-cdn --name histotik-prod --content-paths "/*"
