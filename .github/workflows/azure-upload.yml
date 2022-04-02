@@ -25,7 +25,8 @@ jobs:
         uses: azure/CLI@v1
         with:
           inlineScript: |
-            az storage blob sync --account-name histotikprodsa --container '$web' --source . --exclude-path '.git;.gitignore;cgi-bin;shtml.py'
+            az storage blob delete-batch --account-name histotikprodsa --source '$web' --pattern '*'
+            az storage blob upload-batch --account-name histotikprodsa --destination '$web' --source build/
       -
         name: Purge CDN cache
         uses: azure/CLI@v1

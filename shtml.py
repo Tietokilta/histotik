@@ -1,13 +1,20 @@
 import os
+import shutil
 import re
 import functools
 
-def recurse(file):
+def recurse(file, outfile):
   if os.path.isdir(file):
+    os.mkdir(outfile)
     for child in os.listdir(file):
-      recurse(os.path.join(file, child))
+      # ignore build-related stuff
+      if file == "." and child in ("build", ".git", ".gitignore", ".github", "shtml.py", "cgi-bin"):
+        continue
+      recurse(os.path.join(file, child), os.path.join(outfile, child))
   elif os.path.isfile(file) and file.endswith(".html"):
-    replace_shtml(file)
+    replace_shtml(file, outfile)
+  elif os.path.isfile(file):
+    shutil.copy(file, outfile)
 
 def process_shtml(file, depth=0):
   # convert everything to UTF-8
@@ -29,8 +36,11 @@ def include_file(calling_file, depth, match):
   resolved = os.path.join(os.path.dirname(calling_file), match.group(1))
   return process_shtml(resolved)
 
-def replace_shtml(file, depth=0):
+def replace_shtml(file, outfile):
   content = process_shtml(file)
-  open(file, "w", encoding="utf-8").write(content)
+  open(outfile, "w", encoding="utf-8").write(content)
 
-recurse(".")
+if os.path.exists("build"):
+  shutil.rmtree("build")
+
+recurse(".", "build")
