@@ -18,6 +18,8 @@ def process_shtml(file, depth=0):
 
   content = re.sub(r'<!--#include\s+virtual="(.+?)"\s*-->', functools.partial(include_file, file, depth + 1), content)
 
+  content = re.sub(r'<head>', r'\g<0>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />', content, 1, re.IGNORECASE)
+
   return content
 
 def include_file(calling_file, depth, match):
