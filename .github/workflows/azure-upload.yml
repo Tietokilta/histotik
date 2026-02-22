@@ -26,8 +26,8 @@ jobs:
         uses: azure/CLI@v2
         with:
           inlineScript: |
-            az storage blob delete-batch --account-name histotikprodsa --source '$web' --pattern '*'
-            az storage blob upload-batch --account-name histotikprodsa --destination '$web' --source build/
+            az storage blob delete-batch --account-name histotikprodsa --source '$web' --pattern '*' --auth-mode login
+            az storage blob upload-batch --account-name histotikprodsa --destination '$web' --source build/ --auth-mode login
       - name: Purge CDN cache
         uses: azure/CLI@v2
         with:
